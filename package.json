@@ -454,7 +454,7 @@
     "json5": "^2.2.0",
     "lookpath": "^1.2.0",
     "minimatch": "^3.0.4",
-    "ts-loader": "^8.1.0",
+    "ts-loader": "^9.5.4",
     "vsce": "^2.15.0"
   },
   "extensionDependencies": [
